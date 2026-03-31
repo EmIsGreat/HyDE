@@ -35,10 +35,6 @@ This is a punnet square of the flags, But the outputs are unexpected
 N|Y|${HOME}|.zshrc .p10k.zsh|zsh oh-my-zsh-git zsh-theme-powerlevel10k pokemon-colorscripts-git
 N|Y|${HOME}|.vimrc|vim
 N|Y|${HOME}/.config/starship|starship.toml|starship
-N|Y|${HOME}/.config/Code/User|settings.json|visual-studio-code-bin
-N|Y|${HOME}/.config/Code - OSS/User|settings.json|code
-N|Y|${HOME}/.config|code-flags.conf|visual-studio-code-bin
-N|Y|${HOME}/.config|code-flags.conf|code
 N|Y|${HOME}/.config|spotify-flags.conf|spotify
 Y|Y|${HOME}/.config|dunst|dunst
 N|Y|${HOME}/.config|fish|fish
@@ -62,10 +58,4 @@ Y|Y|${HOME}/.config|wlogout|wlogout
 Y|Y|${HOME}/.config|xsettingsd nwg-look gtk-3.0|nwg-look
 Y|Y|${HOME}/.local/share/icons|default|nwg-look
 Y|Y|${HOME}|.gtkrc-2.0|nwg-look
-Y|Y|${HOME}/.config|dolphinrc kdeglobals|dolphin
-N|Y|${HOME}/.config|baloofilerc|dolphin
-Y|Y|${HOME}/.config/menus|applications.menu|dolphin
-Y|Y|${HOME}/.local/share|dolphin|dolphin
-Y|Y|${HOME}/.local/share/kxmlgui5|dolphin|dolphin
-Y|Y|${HOME}/.local/share/kio/servicemenus|hydewallpaper.desktop|dolphin
 N|Y|${HOME}/.config|libinput-gestures.conf|libinput-gestures
